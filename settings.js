@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['916291588399'] //ur owner number
+global.ownername = "☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬" //ur owner name
+global.ytname = "kumarduttadeep" //ur yt chanel name
+global.socialm = "kumarduttadeep" //ur github or insta name
+global.location = "India, West Bengal, Hooghly" //ur location
 
 //bot bomdy 
-global.ownernomer = "916909137213" //ur number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot MD V6' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.ownernomer = "916291588399" //ur number
+global.premium = ['916291588399'] //ur premium number
+global.botname = '𝐊𝚵𝚸𝐋𝚫𝚪 𝚩𝚯𝚻' //ur bot name
+global.linkz = "https://chat.whatsapp.com/COzM9PfhGln9w89Vm1GG2W" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/WgKGHNNI_U8" //ur website to be displayed
+global.botscript = 'https://github.com/kumarduttadeep' //script link
+global.themeemoji = "😳" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Xeon\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916909137213" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "𝐊𝚵𝚸𝐋𝚫𝚪 𝚩𝚯𝚻\n\n\nA whatsapp bot developed by\nDeep Kumar Dutta\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916291588399" //ur sticker watermark author
+global.wm = "𝐊𝚵𝚸𝐋𝚫𝚪 𝚩𝚯𝚻" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,18 +40,18 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
+    admin: "Baby! This command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command 😑",
+    botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
+    owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿 ☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
+    wait: "I'm progressing your command baby❤️, Please wait......",
+    linkm: 'Abey Where is the link ?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'The nsfw feature has not been activated, Bc padhai likhai karo 𝗜𝗔𝗦 - 𝗬𝗔𝗦 bano lekin nhii tumhe to nudity dekhni hai 👏',
 }
 
 //media target
