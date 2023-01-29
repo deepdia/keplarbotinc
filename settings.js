@@ -24,7 +24,7 @@ global.location = "India, West Bengal, Hooghly" //ur location
 //bot bomdy 
 global.ownernomer = "916291588399" //ur number
 global.premium = ['916291588399'] //ur premium number
-global.botname = '𝐊𝚵𝚸𝐋𝚫𝚪 𝚩𝚯𝚻' //ur bot name
+global.botname = '𝐃𝐀𝐑𝐊 𝐃𝐄𝐄𝐏' //ur bot name
 global.linkz = "https://chat.whatsapp.com/COzM9PfhGln9w89Vm1GG2W" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WgKGHNNI_U8" //ur website to be displayed
 global.botscript = 'https://github.com/kumarduttadeep' //script link
