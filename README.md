@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/kumarduttadeep" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Dark Deep Bot Multi Device is a automated whatsapp bot developed by <a href="https://facebook.com/kumarduttadeep" target="_blank">Deep</a> using <a href="https://www.youtube.com/@Sadlofikeplar" target="_blank">Keplar</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
