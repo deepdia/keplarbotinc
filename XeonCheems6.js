@@ -6297,7 +6297,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://i.imgur.com/HHSn894_d.jpg`},
+image: {url: `https://i.imgur.com/HHSn894.jpeg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -6308,7 +6308,7 @@ title:"I deserve something for my hardwork",
 body: "Click to donate", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://i.imgur.com/HHSn894_d.jpg',
+mediaUrl: 'https://i.imgur.com/HHSn894.jpeg',
 sourceUrl: "upi://pay?pa=paytmqr2810050501014j6xy2uwhs3t@paytm&pn=Paytm"
 }}
 }
