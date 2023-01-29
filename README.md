@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝗗𝗔𝗥𝗞 𝗗𝗘𝗘𝗣 𝗕𝗼𝘁-𝗠𝗗 𝗩6ꫂ<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/cwPuTcp_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="animated" />
+<img src="https://i.imgur.com/cwPuTcp_d.jpg?maxwidth=auto&shape=thumb&fidelity=high" alt="animated" />
 </p>
 
 <p align="center">
