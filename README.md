@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝗗𝗔𝗥𝗞 𝗗𝗘𝗘𝗣 𝗕𝗼𝘁-𝗠𝗗 𝗩6ꫂ<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/muANhbW_lq.mp4" alt="animated" width="540" height="280" />
+<img src="https://i.imgur.com/cwPuTcp_d.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
