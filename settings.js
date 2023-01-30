@@ -16,7 +16,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬'] //ur owner number
-global.ownername = "☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬" //ur owner name
+global.ownername = "916291588399" //ur owner name
 global.ytname = "kumarduttadeep" //ur yt chanel name
 global.socialm = "kumarduttadeep" //ur github or insta name
 global.location = "India, West Bengal, Hooghly" //ur location
@@ -28,7 +28,7 @@ global.botname = '𝐃𝐀𝐑𝐊 𝐃𝐄𝐄𝐏' //ur bot name
 global.linkz = "https://chat.whatsapp.com/COzM9PfhGln9w89Vm1GG2W" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WgKGHNNI_U8" //ur website to be displayed
 global.botscript = 'https://github.com/kumarduttadeep' //script link
-global.themeemoji = "😳" //ur theme emoji
+global.themeemoji = "❒✗" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "𝐊𝚵𝚸𝐋𝚫𝚪 𝚩𝚯𝚻\n\n\nA whatsapp bot developed by\nDeep Kumar Dutta\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916291588399" //ur sticker watermark author
 global.wm = "𝐊𝚵𝚸𝐋𝚫𝚪 𝚩𝚯𝚻" //ur watermark
