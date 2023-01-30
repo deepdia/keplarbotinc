@@ -7696,7 +7696,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, listMessage)
 }
 break
             case 'allmenu':{
-XeonBotInc.sendMessage(m.chat, buttonMessage, {quoted: fkontak})
+var unicorn = await getBuffer(picak+'Dark Deep')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
