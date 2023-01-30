@@ -7696,7 +7696,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, listMessage)
 }
 break
             case 'allmenu':{
-var unicorn = await getBuffer('https://i.imgur.com/MIhTXro.jpeg')
+var unicorn = await getBuffer('https://i.imgur.com/yfRgEYZ.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8533,7 +8533,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
       case 'ownermenu':{
-	   var unicorn = await getBuffer(picak+'Owner Menu')
+	   var unicorn = await getBuffer('https://i.imgur.com/34Scmli.png')
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
   {buttonId: 'donate', buttonText: {displayText: 'Donate 🍵'}, type: 1},
@@ -8566,7 +8566,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'groupmenu':{
-var unicorn = await getBuffer(picak+'Group Menu')
+var unicorn = await getBuffer('https://i.imgur.com/31PoYjO.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8626,7 +8626,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'makermenu':{
-var unicorn = await getBuffer(picak+'Maker Menu')
+var unicorn = await getBuffer('https://i.imgur.com/OifQwjP.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8752,7 +8752,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'downloadmenu':{
-var unicorn = await getBuffer(picak+'Download Menu')
+var unicorn = await getBuffer('https://i.imgur.com/L1rpERw.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8781,7 +8781,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'searchmenu':{
-var unicorn = await getBuffer(picak+'Search Menu')
+var unicorn = await getBuffer('https://i.imgur.com/7zHwjXI.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8820,7 +8820,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'convertmenu':{
-var unicorn = await getBuffer(picak+'Convert Menu')
+var unicorn = await getBuffer('https://i.imgur.com/SA7vuLn.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8868,7 +8868,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'randomimagemenu':{
-var unicorn = await getBuffer(picak+'Random Image Menu')
+var unicorn = await getBuffer('https://i.imgur.com/ZrIXmVt.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8926,7 +8926,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'randomvideomenu':{
-var unicorn = await getBuffer(picak+'Random Video Menu')
+var unicorn = await getBuffer('https://i.imgur.com/MmP7Tud.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8955,7 +8955,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
            case 'emotemenu':{
-var unicorn = await getBuffer(picak+'Emote Menu')
+var unicorn = await getBuffer('https://i.imgur.com/lJptaR2.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -8988,7 +8988,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'imageeffectmenu':{
-var unicorn = await getBuffer(picak+'Image Effect Menu')
+var unicorn = await getBuffer('https://i.imgur.com/NjJspXF.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9010,7 +9010,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'animemenu':{
-var unicorn = await getBuffer(picak+'Anime Menu')
+var unicorn = await getBuffer('https://i.imgur.com/q3WWkTq.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9082,7 +9082,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'stickermenu':{
-var unicorn = await getBuffer(picak+'Sticker Menu')
+var unicorn = await getBuffer('https://i.imgur.com/ciuJoA3.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9114,7 +9114,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'animestickermenu':{
-var unicorn = await getBuffer(picak+'Anime Sticker Menu')
+var unicorn = await getBuffer('https://i.imgur.com/gv3Ryu4.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9164,7 +9164,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break 
 case 'nsfwmenu':{
-var unicorn = await getBuffer(picak+'Nsfw Menu')
+var unicorn = await getBuffer('https://i.imgur.com/d7kgx7d.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9220,7 +9220,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'funmenu':{
-var unicorn = await getBuffer(picak+'Fun Menu')
+var unicorn = await getBuffer('https://i.imgur.com/085SJyB.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9316,7 +9316,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'soundmenu':{
-var unicorn = await getBuffer(picak+'Sound Menu')
+var unicorn = await getBuffer('https://i.imgur.com/X03udEN.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9498,7 +9498,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'gamemenu':{
-var unicorn = await getBuffer(picak+'Game Menu')
+var unicorn = await getBuffer('https://i.imgur.com/NkCoNNp.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9526,7 +9526,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
             case 'anonymousmenu':{
-var unicorn = await getBuffer(picak+'Anonymous Menu')
+var unicorn = await getBuffer('https://i.imgur.com/7zJDrIh.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9551,7 +9551,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'databasemenu':{
-var unicorn = await getBuffer(picak+'Database Menu')
+var unicorn = await getBuffer('https://i.imgur.com/XUymu6V.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9580,7 +9580,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'othermenu':{
-var unicorn = await getBuffer(picak+'Other Menu')
+var unicorn = await getBuffer('https://i.imgur.com/IZYEIXX.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
@@ -9621,7 +9621,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, buttonMessage)
 }
 break
 case 'warmenu':{
-var unicorn = await getBuffer(picak+'War Menu')
+var unicorn = await getBuffer('https://i.imgur.com/F5GWC8m.png')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
