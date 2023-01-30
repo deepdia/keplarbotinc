@@ -8541,7 +8541,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓞𝓦𝓝𝓔𝓡 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}self
 ┃│ ❒✗ ${prefix}public
@@ -8575,7 +8575,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓖𝓡𝓞𝓤𝓟 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮ 	
 ┃│ ❒✗ ${prefix}grouplink
 ┃│ ❒✗ ${prefix}ephemeral [option]
@@ -8635,7 +8635,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓜𝓐𝓚𝓔𝓡 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙈𝘼𝙆𝙀𝙍 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮ 		
 ┃│ ❒✗ ${prefix}candy
 ┃│ ❒✗ ${prefix}8bit
@@ -8761,7 +8761,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓓𝓞𝓦𝓝𝓛𝓞𝓐𝓓 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮  	
 ┃│ ❒✗ ${prefix}tiktok [url]
 ┃│ ❒✗ ${prefix}tiktokaudio [url]
@@ -8790,7 +8790,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓢𝓔𝓐𝓡𝓒𝓗 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙎𝙀𝘼𝙍𝘾𝙃 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}play [query]
 ┃│ ❒✗ ${prefix}song [query]
@@ -8829,7 +8829,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓒𝓞𝓝𝓥𝓔𝓡𝓣 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮ 	
 ┃│ ❒✗ ${prefix}toimage [reply stick]
 ┃│ ❒✗ ${prefix}sticker [reply img|gif]
@@ -8877,7 +8877,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓡𝓐𝓝𝓓𝓞𝓜 𝓘𝓜𝓖 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙍𝘼𝙉𝘿𝙊𝙈 𝙄𝙈𝙂 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮
 ┃│ ❒✗ ${prefix}coffee
 ┃│ ❒✗ ${prefix}woof
@@ -8935,7 +8935,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓡𝓐𝓝𝓓𝓞𝓜 𝓥𝓘𝓓𝓔𝓞 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙍𝘼𝙉𝘿𝙊𝙈 𝙑𝙄𝘿𝙀𝙊 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮
 ┃│ ❒✗ ${prefix}tiktokgirl	
 ┃│ ❒✗ ${prefix}tiktoknukhty
@@ -8964,7 +8964,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓔𝓜𝓞𝓣𝓔 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙀𝙈𝙊𝙏𝙀 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}instagramemoji
 ┃│ ❒✗ ${prefix}facebookemoji
@@ -8997,7 +8997,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓘𝓜𝓖 𝓔𝓕𝓕𝓔𝓒𝓣 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙄𝙈𝙂 𝙀𝙁𝙁𝙀𝘾𝙏 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}removebg [reply img]
 ┊╯
@@ -9019,7 +9019,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓐𝓝𝓘𝓜𝓔 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝘼𝙉𝙄𝙈𝙀 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}animeneko
 ┃│ ❒✗ ${prefix}waifu
@@ -9091,7 +9091,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓢𝓣𝓘𝓒𝓚𝓔𝓡 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}patrick
 ┃│ ❒✗ ${prefix}emoji
@@ -9123,7 +9123,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓐𝓝𝓘𝓜𝓔 𝓢𝓣𝓘𝓒𝓚𝓔𝓡 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝘼𝙉𝙄𝙈𝙀 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮ 	
 ┃│ ❒✗ ${prefix}loli
 ┃│ ❒✗ ${prefix}bully
@@ -9173,7 +9173,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓝𝓢𝓕𝓦 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮ 	
 ┃│ ❒✗ ${prefix}gifhentai
 ┃│ ❒✗ ${prefix}gifblowjob
@@ -9229,7 +9229,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓕𝓤𝓝 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙁𝙐𝙉 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮
 ┃│ ❒✗ ${prefix}say [text]	
 ┃│ ❒✗ ${prefix}define [text]
@@ -9325,7 +9325,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓢𝓞𝓤𝓝𝓓 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙎𝙊𝙐𝙉𝘿 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}sound1
 ┃│ ❒✗ ${prefix}sound2
@@ -9507,7 +9507,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓖𝓐𝓜𝓔 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙂𝘼𝙈𝙀 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}truth
 ┃│ ❒✗ ${prefix}dare
@@ -9535,7 +9535,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓐𝓝𝓞𝓝𝓨𝓜𝓞𝓤𝓢 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝘼𝙉𝙊𝙉𝙔𝙈𝙊𝙐𝙎 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮ 	
 ┃│ ❒✗ ${prefix}anonymous
 ┃│ ❒✗ ${prefix}start
@@ -9560,7 +9560,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓓𝓐𝓣𝓐𝓑𝓐𝓢𝓔 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝘿𝘼𝙏𝘼𝘽𝘼𝙎𝙀 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}setcmd
 ┃│ ❒✗ ${prefix}listcmd
@@ -9589,7 +9589,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓞𝓣𝓗𝓔𝓡 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝙊𝙏𝙃𝙀𝙍 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮	
 ┃│ ❒✗ ${prefix}afk
 ┃│ ❒✗ ${prefix}id
@@ -9630,7 +9630,7 @@ const buttons = [
 ]
 const buttonMessage = {
     image: unicorn,
-    caption: `╭╼━━᚜ 𝓑𝓤𝓖 𝓜𝓔𝓝𝓤 ᚛━╾ᐧᐧᐧᐧ⳹
+    caption: `╭╼━━᚜ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 ᚛━╾ᐧᐧᐧᐧ⳹
 ┊╮
 ┃│━━━━━━━━╾ᐧᐧᐧᐧ☾pc attack☽
 ┃│ ❒✗ ${prefix}pcbut [number]
