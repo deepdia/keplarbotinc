@@ -7696,7 +7696,8 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, listMessage)
 }
 break
             case 'allmenu':{
-var unicorn = await getBuffer("XeonMedia/theme/cheemspic.jpg")
+let ownernya = ownernomer + '@s.whatsapp.net'
+            let me = m.sender
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
