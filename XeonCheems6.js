@@ -7696,8 +7696,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, listMessage)
 }
 break
             case 'allmenu':{
-let ownernya = ownernomer + '@s.whatsapp.net'
-            let me = m.sender
+XeonBotInc.sendMessage(m.chat, buttonMessage, {quoted: fkontak})
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
