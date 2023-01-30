@@ -7696,7 +7696,7 @@ const sendMsg = await XeonBotInc.sendMessage(m.chat, listMessage)
 }
 break
             case 'allmenu':{
-var unicorn = await getBuffer(picak+'Dark Deep')
+var unicorn = await getBuffer('https://i.imgur.com/MIhTXro.jpeg')
 
 const buttons = [
   {buttonId: 'script', buttonText: {displayText: 'Script 🔖'}, type: 1},
